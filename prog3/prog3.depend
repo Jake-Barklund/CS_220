@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573155108 source:c:\users\jakeb\desktop\cs220\prog3\prog3.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	<errno.h>
+

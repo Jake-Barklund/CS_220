@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570049926 source:c:\users\jakeb\desktop\cs220\homework2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
+1570476796 source:c:\users\jakeb\desktop\cs220\homework2\prog2.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
